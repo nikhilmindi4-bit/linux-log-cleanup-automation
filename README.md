@@ -16,4 +16,3 @@ This project automates the cleanup of old log files on Linux systems to prevent 
 ```bash
 chmod +x log_cleanup.sh
 ./log_cleanup.sh
-
